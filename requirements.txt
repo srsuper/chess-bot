@@ -1,9 +1,9 @@
-line-bot-sdk
-flask
-python-dotenv
-transitions
-pygraphviz
-Pillow
-numpy
+line-bot-sdk = "1.14.0"
+flask = "1.0.2"
+python-dotenv = "0.10.3"
+transitions = "0.6.9"
+pygraphviz = "*"
+Pillow = "8.0.1"
+numpy = "1.17.4"
 requests
 requests_oauthlib
